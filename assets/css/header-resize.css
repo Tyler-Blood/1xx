@@ -248,7 +248,6 @@ header {
 }
 
 header h1#logo {
-    display: inline-block;
     height: 150px;
     line-height: 150px;
     float: left;
@@ -264,7 +263,6 @@ header h1#logo {
 }
 
 header nav {
-    display: inline-block;
     float: right;
 }
 
