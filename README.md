@@ -10,7 +10,7 @@ https://1xx.tylerblood.com/
     - added jQuery
 
 ### inside out project version 100.2
-    - fixed the footer by adjusting th bootstrap column widths wrapping them inside a bootstrap row
+    - fixed the footer by adjusting the bootstrap column widths wrapping them inside a bootstrap row
 
 ### inside out project version 101.0
     - added first level of navigation
@@ -24,3 +24,6 @@ https://1xx.tylerblood.com/
 
 ### inside out project version 102.1
     - completed css for nav
+
+### inside out project version 102.2
+    - fixed ui of nav bar to not extend to the size of the header when scrolled in header-resize.css
