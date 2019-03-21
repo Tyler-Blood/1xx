@@ -297,7 +297,11 @@ header.smaller h1#logo {
 }
 
 header.smaller nav a {
-    line-height: 75px;
+    line-height: 45px;
+}
+
+header.smaller nav ul ul a {
+    line-height: 35px;
 }
 
 /* =Footer
@@ -336,7 +340,7 @@ header.smaller nav a {
     }
 
     header nav a {
-        line-height: 50px;
+        line-height: 45px;
         margin: 0 10px;
     }
 
@@ -355,6 +359,10 @@ header.smaller nav a {
     }
 
     header.smaller nav a {
+        line-height: 35px;
+    }
+
+    header.smaller nav ul ul a {
         line-height: 35px;
     }
 }
