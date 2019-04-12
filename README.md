@@ -27,3 +27,6 @@ https://1xx.tylerblood.com/
 
 ### inside out project version 102.2
     - fixed ui of nav bar to not extend to the size of the header when scrolled in header-resize.css
+
+### inside out project version 103.0
+    - added loader to application with gif
