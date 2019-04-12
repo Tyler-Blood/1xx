@@ -295,6 +295,7 @@ header.smaller h1#logo {
 }
 
 header.smaller nav a {
+    /* line-height: 75px; */
     line-height: 45px;
 }
 
